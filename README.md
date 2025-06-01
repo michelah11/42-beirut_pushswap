@@ -163,16 +163,4 @@ Additional checks:
 
 ---
 
-## 📚 Evaluation Questions
-
-- How is the stack represented?  
-- What sorting strategy do you use for large inputs?  
-- How do you optimize for minimum instructions?  
-- Can you sort 3 elements? 5 elements? 500?  
-- What happens if you give invalid input?  
-- Did you write your own `atoi`, `split`, etc.?  
-- Why are globals forbidden?  
-
----
-
 <p align="center"><i>"Sorting numbers is easy — doing it efficiently is an art."</i></p>
